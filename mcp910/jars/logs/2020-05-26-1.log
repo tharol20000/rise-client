@@ -1,0 +1,32 @@
+[10:47:56] [Client thread/INFO]: Setting user: Player439
+[10:47:56] [Client thread/INFO]: (Session ID is token:0:Player439)
+[10:47:57] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:47:58] [Client thread/INFO]: Reloading ResourceManager: Default
+[10:47:58] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:47:58] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[10:47:58] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:47:58] [Thread-7/INFO]: OpenAL initialized.
+[10:47:58] [Sound Library Loader/INFO]: Sound engine started
+[10:48:02] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[10:48:09] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[10:48:09] [Server thread/INFO]: Generating keypair
+[10:48:09] [Server thread/INFO]: Preparing start region for level 0
+[10:48:10] [Server thread/INFO]: Preparing spawn area: 89%
+[10:48:10] [Server thread/INFO]: Changing view distance to 8, from 10
+[10:48:10] [Server thread/INFO]: Player439[local:E:02491460] logged in with entity id 212 at (630.580712941535, 64.0, 196.5094635100878)
+[10:48:10] [Server thread/INFO]: Player439 joined the game
+[10:48:59] [Server thread/INFO]: Saving and pausing game...
+[10:48:59] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[10:48:59] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[10:48:59] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[10:51:31] [Client thread/INFO]: Stopping!
+[10:51:31] [Client thread/INFO]: SoundSystem shutting down...
+[10:51:31] [Server thread/INFO]: Stopping server
+[10:51:31] [Server thread/INFO]: Saving players
+[10:51:31] [Server thread/INFO]: Saving worlds
+[10:51:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[10:51:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[10:51:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[10:51:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:51:40] [Client thread/INFO]: Setting user: Player901
+[10:51:40] [Client thread/INFO]: (Session ID is token:0:Player901)

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Fly.java&apos; to &apos;Client/src/rise.modules.movement&apos;&#x0D;&#x0A;- Original project: &apos;Client&apos;&#x0D;&#x0A;- Destination element: &apos;Client/src/rise.modules.movement&apos;&#x0D;&#x0A;- Original element: &apos;rise.modules.movement.Fly.java&apos;" description="Copy compilation unit" destination="/src&lt;rise.modules.movement" element1="/src&lt;rise.modules.movement{Fly.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589795489582" units="1" version="1.0"/>
+</session>

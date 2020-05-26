@@ -1,0 +1,9 @@
+package rise.modules.movement;
+
+public class Sneak {
+
+	public Sneak() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

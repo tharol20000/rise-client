@@ -1,0 +1,17 @@
+[20:16:18] [Client thread/INFO]: Setting user: Player748
+[20:16:18] [Client thread/INFO]: (Session ID is token:0:Player748)
+[20:16:21] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:16:21] [Client thread/INFO]: Reloading ResourceManager: Default
+[20:16:21] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:16:21] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[20:16:21] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:16:23] [Thread-7/INFO]: OpenAL initialized.
+[20:16:23] [Sound Library Loader/INFO]: Sound engine started
+[20:16:26] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[20:16:53] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:16:53] [Server thread/INFO]: Generating keypair
+[20:16:53] [Server thread/INFO]: Preparing start region for level 0
+[20:16:54] [Server thread/INFO]: Preparing spawn area: 90%
+[20:16:54] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:16:55] [Server thread/INFO]: Player748[local:E:5c99a4ab] logged in with entity id 196 at (609.791365973502, 64.0, 239.3669114190545)
+[20:16:55] [Server thread/INFO]: Player748 joined the game

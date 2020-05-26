@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.Display"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArrayList"/>
+<fullyQualifiedTypeName name="org.lwjgl.input.Keyboard"/>
+<fullyQualifiedTypeName name="rise.modules.movement.Fly"/>
+<fullyQualifiedTypeName name="java.awt.Event"/>
+<fullyQualifiedTypeName name="rise.events.EventType"/>
+<fullyQualifiedTypeName name="rise.events.Event"/>
+<fullyQualifiedTypeName name="rise.events.listeners.EventUpdate"/>
+<fullyQualifiedTypeName name="rise.ui.HUD"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.ScaledResolution"/>
+<fullyQualifiedTypeName name="rise.Client"/>
+<fullyQualifiedTypeName name="rise.modules.Module"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.GlStateManager"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.Gui"/>
+<fullyQualifiedTypeName name="rise.modules.movement.Sprint"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="rise.modules.movement.Sneak"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,31 @@
+package rise.modules.movement;
+
+import org.lwjgl.input.Keyboard;
+
+import rise.events.Event;
+import rise.events.listeners.EventUpdate;
+import rise.modules.Module;
+
+public class Sneak extends Module{
+	
+	public Sneak(){
+		super("Sneak", Keyboard.KEY_LCONTROL, Category.MOVEMENT);
+	}
+	
+	public void onEnable(){
+		
+	}
+	
+	public void onDisable(){
+		mc.thePlayer.setSneaking(false);
+	}
+	
+	public void onEvent(Event e){
+		if(e instanceof EventUpdate){
+			if(e.isPre()){
+				mc.thePlayer.setSneaking(true);
+			}
+		}
+	}
+	
+}
